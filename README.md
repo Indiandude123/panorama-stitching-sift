@@ -16,12 +16,12 @@ It processes a set of overlapping images and stitches them into a seamless panor
 
 ## Project Structure
 
-├── main.py # Main entry point
-├── sift.py # Custom SIFT keypoint + descriptor extraction
-├── knn_matcher.py # Custom KNN matching
-├── homography.py # RANSAC-based homography estimation
-├── utils.py # Helper functions (resize, grayscale, blur, etc.)
-└── README.md
+    ├── main.py # Main entry point
+    ├── sift.py # Custom SIFT keypoint + descriptor extraction
+    ├── knn_matcher.py # Custom KNN matching
+    ├── homography.py # RANSAC-based homography estimation
+    ├── utils.py # Helper functions (resize, grayscale, blur, etc.)
+    └── README.md
 
 
 ---
